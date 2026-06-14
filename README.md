@@ -1,2 +1,2 @@
 # pipeline-java-staging
-devops-school
+CI/CD Pipeline for Java application deployment to Yandex Cloud with Terraform and Ansible
